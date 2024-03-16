@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "110",
+      "name": "polltest",
+      "address": "ghosala"
+    },
+    {
+      "id": "109",
+      "name": "likith joga",
+      "address": "Dno 6-258/3, sri sai nagar colony,simhachalam"
+    },
+    {
+      "id": "120",
+      "name": "ram",
+      "address": "Dno 6-258/3, sri sai nagar colony,simhachalam"
+    },
+    {
+      "id": "101",
+      "name": "ramkint",
+      "address": "Dno 6-258/3, sri sai nagar colony,simhachalam"
+    },
+    {
+      "id": "102",
+      "name": "ramkint",
+      "address": "visala nagar"
+    },
+    {
+      "id": "123",
+      "name": "vilan",
+      "address": "dubai"
+    },
+    {
+      "id": "115",
+      "name": "raman",
+      "address": "rabkio"
+    },
+    {
+      "id": "127",
+      "name": "event",
+      "address": "hemanthanagar"
+    }
+  ],
+  "lnews": [
+    {
+      "id": 101,
+      "lnews": "Lorem Ipsum is simply dummy text of"
+    },
+    {
+      "id": "102",
+      "lnews": "hlo sample"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+ /* <div>
+          <Malc
+          foak="cells"
+          name="i6s"
+          price="76,000"
+          path="https://tse1.mm.bing.net/th?id=OIP.-IbNLpQO1xPWpcnsFimTOQHaGT&pid=Api&P=0&h=180"
+          />
+          <Malc
+          foak="cells"
+          name="i6s"
+          price="76,000"
+          path="https://tse1.mm.bing.net/th?id=OIP.-IbNLpQO1xPWpcnsFimTOQHaGT&pid=Api&P=0&h=180"
+          />
+          <Malc
+          foak="cells"
+          name="i6s"
+          price="76,000"
+          path="https://tse1.mm.bing.net/th?id=OIP.-IbNLpQO1xPWpcnsFimTOQHaGT&pid=Api&P=0&h=180"
+          />
+          <Malc
+          foak="cells"
+          name="i6s"
+          price="76,000"
+          path="https://tse1.mm.bing.net/th?id=OIP.-IbNLpQO1xPWpcnsFimTOQHaGT&pid=Api&P=0&h=180"
+          />
+          <Malc
+          foak="cells"
+          name="i6s"
+          price="76,000"
+          path="https://tse1.mm.bing.net/th?id=OIP.-IbNLpQO1xPWpcnsFimTOQHaGT&pid=Api&P=0&h=180"
+          />
+          <Malc
+          foak="cells"
+          name="i6s"
+          price="76,000"
+          path="https://tse1.mm.bing.net/th?id=OIP.-IbNLpQO1xPWpcnsFimTOQHaGT&pid=Api&P=0&h=180"
+          />
+            </div>
+            <div>
+          <Fncom name="elarn "/>
+          <Fncom name="monster "/>
+          <Fncom name="terminae"/>
+            <Claasss/>
+<Bas lname= "lol"/>
+<Arrow />
+
+<Goat/>
+</div>*/
+<Basicstate/>
+<Basiclist/>
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+import React from 'react';
+import './App.css';
+//import Claasss from './const/claasss';
+//import Fncom from './const/fncom';
+//import { Malc } from './const/malc';
+//import Bas from './const/bas';
+//import Arrow from './const/arrow';
+//import Goat from './const/goat';
+//import Basicstate from './const/basicstate ';
+//import { Basiclist } from './const/basiclist';
+//import Condi from './const/condi';
+//import Most from './const/most';
+//import { Fragment } from './const/Fragment';
+// import Condi2 from './const/condi2';
+//import Eventbinding from './const/Eventbinding';
+
+//import { Bs1 } from './const/bs1';
+//import  Event from './const/event';
+//import { Gallery } from './const/gallery';
+import 'bootstrap/dist/css/bootstrap.min.css'
+//import { Newbevent } from './const/newbevent';
+import { Button ,Card} from 'react-bootstrap';
+//import BasicExample from './const/BasicExample';
+import Table from 'react-bootstrap/Table';
+import './App.css';
+function App() {
+    return (
+        <div className='App'>
+            <Button className="btn btn-dager m-3 p-0"href='index.html'>
+                read more
+            </Button>
+            
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22286%22%20height%3D%22180%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20286%20180%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_18a9760f207%20text%20%7B%20fill%3A%23999%3Bfont-weight%3Anormal%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A14pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_18a9760f207%22%3E%3Crect%20width%3D%22286%22%20height%3D%22180%22%20fill%3D%22%23373940%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22107.1937484741211%22%20y%3D%2296.24000034332275%22%3E286x180%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+      <Card.Body>
+        <Card.Title>Card Title</Card.Title>
+        <Card.Text>
+          Some quick example text to build on the card title and make up the
+          bulk of the card's content.
+        </Card.Text>
+        <Button variant="primary">Go somewhere</Button>
+      </Card.Body>
+    </Card>
+  
+    <Table striped bordered hover mt-5 >
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Username</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Mark</td>
+          <td>Otto</td>
+          <td>@mdo</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Jacob</td>
+          <td>Thornton</td>
+          <td>@fat</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td colSpan={2}>Larry the Bird</td>
+          <td>@twitter</td>
+        </tr>
+      </tbody>
+    </Table>
+    
+<div>
+{/*<Fragment/> 
+
+<Eventbinding/>
+<Bs1/>
+<Gallery/>
+<Newbevent/>
+<Form>
+            <Row className="mb-3">
+        <Form.Group as={Col} controlId="formGridEmail">
+          <Form.Label>Email</Form.Label>
+          <Form.Control type="email" placeholder="Enter email" />
+        </Form.Group>
+
+        <Form.Group as={Col} controlId="formGridPassword">
+          <Form.Label>Password</Form.Label>
+          <Form.Control type="password" placeholder="Password" />
+        </Form.Group>
+      </Row>
+
+      <Form.Group className="mb-3" controlId="formGridAddress1">
+        <Form.Label>Address</Form.Label>
+        <Form.Control placeholder="1234 Main St" />
+      </Form.Group>
+
+      <Form.Group className="mb-3" controlId="formGridAddress2">
+        <Form.Label>Address 2</Form.Label>
+        <Form.Control placeholder="Apartment, studio, or floor" />
+      </Form.Group>
+
+      <Row className="mb-3">
+        <Form.Group as={Col} controlId="formGridCity">
+          <Form.Label>City</Form.Label>
+          <Form.Control />
+        </Form.Group>
+
+        <Form.Group as={Col} controlId="formGridState">
+          <Form.Label>State</Form.Label>
+          <Form.Select defaultValue="Choose...">
+            <option>Choose...</option>
+            <option>...</option>
+          </Form.Select>
+        </Form.Group>
+
+        <Form.Group as={Col} controlId="formGridZip">
+          <Form.Label>Zip</Form.Label>
+          <Form.Control />
+        </Form.Group>
+      </Row>
+
+      <Form.Group className="mb-3" id="formGridCheckbox">
+        <Form.Check type="checkbox" label="Check me out" />
+      </Form.Group>
+
+      <Button variant="primary" type="submit">
+        Submit
+      </Button>
+    </Form>
+*/}
+
+</div>
+        </div>
+    )
+}
+  
+export default App
+import React from "react";
+import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
+import Home from "./components/Home";
+import About from "./components/About";
+import Contact from "./components/Contact";
+  
+function App() {
+  
+    return (
+        <>
+            <BrowserRouter>
+                <div style={{
+                    display: "flex",
+                    background: 'black',
+                    padding: '5px 0 5px 5px',
+                    fontSize: '20px'
+                }}>
+                    <div style={{ margin: '10px' }}>
+                        <NavLink to="/" style={({ isActive }) => ({ 
+                            color: isActive ? 'greenyellow' : 'white' })}>
+                            Home
+                        </NavLink>
+                    </div>
+                    <div style={{ margin: '10px' }}>
+                        <NavLink to="/about" style={({ isActive }) => ({ 
+                            color: isActive ? 'greenyellow' : 'white' })}>
+                            About
+                        </NavLink>
+                    </div>
+                    <div style={{ margin: '10px' }}>
+                        <NavLink to="/contact" style={({ isActive }) => ({ 
+                            color: isActive ? 'greenyellow' : 'white' })}>
+                            Contact
+                        </NavLink>
+                    </div>
+                </div>
+                <Routes>
+                    <Route exact path="/" element={<Home />} />
+                    <Route exact path="/about" element={<About />} />
+                    <Route exact path="/contact" element={<Contact />} />
+                </Routes>
+            </BrowserRouter>
+        </>
+    );
+}
+  
+export default App;
+//////////////////////////////////////////////////////////////////////////////////
+import React from 'react';
+import './App.css';
+import { Header } from './components/Header';
+//import Claasss from './const/claasss';
+//import Fncom from './const/fncom';
+//import { Malc } from './const/malc';
+//import Bas from './const/bas';
+//import Arrow from './const/arrow';
+//import Goat from './const/goat';
+//import Basicstate from './const/basicstate ';
+//import { Basiclist } from './const/basiclist';
+//import Condi from './const/condi';
+//import Most from './const/most';
+//import { Fragment } from './const/Fragment';
+// import Condi2 from './const/condi2';
+//import Eventbinding from './const/Eventbinding';
+//import { Stylesex } from './const/stylesex';
+//import { Bs1 } from './const/bs1';
+//import  Event from './const/event';
+//import { Gallery } from './const/gallery';
+import 'bootstrap/dist/css/bootstrap.min.css'
+//import { AboutUs } from './components/AboutUs';
+
+import { Gallery } from './components/Gallery';
+//import { Newbevent } from './const/newbevent';
+
+//import BasicExample from './const/BasicExample';
+//import Table from 'react-bootstrap/Table';
+import './App.css';
+function App() {
+    return (
+        <div className='App p-0'>
+           <Header/>
+           <div className='mt-3'>
+         {/* <AboutUs/> */} 
+         <Gallery/>
+         </div>
+        </div>
+    )
+}
+  
